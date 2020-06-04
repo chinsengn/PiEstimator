@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
   )
 ```
 
-## Estimating $\pi$ by a Monte Carlo simulation {.tabset}
+## Estimating $\pi$ by a Monte Carlo simulation
 
 Consider a quarter cirle with a radius of 1, its area will be $\pi$/4. Such a quarter circle fits nicely in a square of length 1 and area 1. Note that the ratio of the areas of the quarter circle to the square is also $\pi$/4.
 
